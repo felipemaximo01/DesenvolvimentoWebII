@@ -1,0 +1,10 @@
+{{>header}}
+<ul>
+{{#materias}}
+<li>{{segunda}}</li><br>
+<li>{{terca}}</li><br>
+<li>{{quarta}}</li><br>
+<li>{{quinta}}</li><br>
+<li>{{sexta}}</li><br>
+{{/materias}}
+</ul>

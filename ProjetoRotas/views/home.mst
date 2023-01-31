@@ -1,0 +1,12 @@
+{{>header}}
+
+<p>Projeto Desenvolvido com NodeJS usando os frameworks mustache e Express.</p>
+<p>Paginas criadas usando web service.</p>
+<p>O projeto contem três rotas:</p>
+<ul>
+{{#rotas}}
+<li>{{rota1}}</li><br>
+<li>{{rota2}}</li><br>
+<li>{{rota3}}</li><br>
+{{/rotas}}
+</ul>

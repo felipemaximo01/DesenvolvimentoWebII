@@ -1,0 +1,17 @@
+{{>header}}
+
+<ul>
+{{#historico}}
+<li>{{materia1}}</li><br>
+<li>{{materia2}}</li><br>
+<li>{{materia3}}</li><br>
+<li>{{materia4}}</li><br>
+<li>{{materia5}}</li><br>
+<li>{{materia6}}</li><br>
+<li>{{materia7}}</li><br>
+<li>{{materia8}}</li><br>
+<li>{{materia9}}</li><br>
+<li>{{materia10}}</li><br>
+<li>{{materia11}}</li><br>
+{{/historico}}
+</ul>
